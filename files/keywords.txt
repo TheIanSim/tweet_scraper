@@ -1,0 +1,51 @@
+APPLE
+$AAPL
+Microsoft
+$MSFT
+Amazon
+$AMZN
+Facebook
+FB
+$FB
+$Alphabet
+$GOOGL
+$Alphabet
+$GOOG
+Tesla
+$SLA
+Berkshire Hathaway
+$BRK.B
+NVIDIA
+$NVDA
+JPMorgan Chase & Co
+$JPM
+Johnson & Johnson
+$JNJ
+$Visa
+$V
+UnitedHealth Group
+$UNH
+Paypal Holdings
+$PYPL
+Home Depot
+$HD
+Procter & Gamble
+$PG
+Mastercard
+$MA
+Walt Disney
+$DIS
+Bank of America
+$BAC
+Adobe
+$ADBE
+Exxon Mobil
+$XOM
+Comcast
+$CMCSA
+Netflix
+$NFLX
+Verizon Communications
+$VZ
+Intel
+$INTC

@@ -1,0 +1,42 @@
+LCID
+$LCID
+Lucid Group
+Lucid Motors
+CCIV
+$CCIV
+Churchill Capital
+<NEXT>
+GRAB
+$GRAB
+Grab Holdings
+$AGC
+Altimeter Growth Corp
+<NEXT>
+SOFI
+$SOFI
+SoFi Technologies
+$IPOE
+IPOE
+Social Capital Hedosophia
+Social Finance
+<NEXT>
+DKNG
+$DKNG
+DraftKings
+DEAC
+$DEAC
+Diamond Eagle Acquisition
+SBTech
+<NEXT>
+VRT
+$VRT
+Vertiv Holdings
+GSAH
+$GSAH
+GS Acquisition
+<NEXT>
+DNA
+$DNA
+Ginkgo Bioworks Holdings
+$SRNG
+SRNG

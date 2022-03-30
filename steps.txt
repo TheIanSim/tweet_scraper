@@ -1,0 +1,13 @@
+steps:
+
+0. update parameters/filepaths used in scripts. (configuration.ini) 
+1. [python: data_extraction.py] extract tweets data and output the raw dataset file and a file which store the counts of tweets for different account and keywords
+2. update the file path of the raw dataset file in configuration.ini
+3. [pyspark dataframe: data_preprocessing_new.py] read raw dataset file and perform data cleaning and also calculate the sentiment scores and save the output dataset file
+4. update the file path of the clean dataset file in configuration.ini
+5. [python: display_new_dataset.py] have an overview (data examples and data count) of the dataset file
+6. [IPython Notebook: CS5344 Project Model.ipynb] update the dataset file path in CS5344 Project Model.ipynb and run the code to perform analysis.
+
+Note:
+A small dataset file (tweets_files/test_dataset.csv) is used to show the pyspark code is working.
+
